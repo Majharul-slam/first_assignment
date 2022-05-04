@@ -1,0 +1,55 @@
+body {
+  font-family: 'Libre Bodoni',
+    serif;
+  font-size: 20px;
+}
+
+section {
+  display: flex;
+}
+
+.first {
+  width: 100%;
+  padding-left: 50px;
+  padding-top: 50px;
+
+}
+
+.first img {
+  width: 80%;
+}
+
+span {
+  color: #5858fb;
+}
+
+.button_1 {
+  text-decoration: none;
+  background-image: linear-gradient(red, tomato);
+  color: aliceblue;
+  padding: 10px 20px;
+  border-radius: 4px;
+  font-size: 18px;
+  font-weight: 700;
+  margin-left: 45px;
+  margin-top: -50px;
+}
+
+a:hover {
+  background-image: linear-gradient(aqua, blue);
+  transition: 5s;
+}
+
+.xx_p {
+  font-size: 18px;
+  text-align: justify;
+}
+
+h5 {
+  font-weight: 600;
+  margin-bottom: -10px;
+}
+.span_p_1{
+  margin-left: 80px;
+  color: red;
+}
