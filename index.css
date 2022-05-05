@@ -3,12 +3,12 @@ body {
     serif;
   font-size: 20px;
   margin: 0;
-  margin-right: ;
+  
 }
 
 section {
   display: flex;
-  background-image: url(image-bg/top-banner.png);
+  background-image: url(image/top-banner.png);
   background-repeat: no-repeat;
 
 }
@@ -75,7 +75,7 @@ h5 {
 }
 
 .milestone {
-  background-image: url(image-bg/music.png);
+  background-image: url(image/music.png);
   background-position: right;
   background-size: 300px;
   margin: 50px 10px;
