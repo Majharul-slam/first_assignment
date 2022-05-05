@@ -2,10 +2,15 @@ body {
   font-family: 'Libre Bodoni',
     serif;
   font-size: 20px;
+  margin: 0;
+  margin-right: -80px;
 }
 
 section {
   display: flex;
+  background-image: url(image-bg/top-banner.png);
+  background-repeat: no-repeat;
+
 }
 
 .first {
@@ -49,7 +54,22 @@ h5 {
   font-weight: 600;
   margin-bottom: -10px;
 }
-.span_p_1{
+
+.span_p_1 {
   margin-left: 80px;
   color: red;
+}
+
+.tentacion_music {
+  color: rgba(192, 192, 3, 0.822);
+}
+
+#sec_image {
+  margin-left: 50px;
+  margin-top: 50px;
+}
+
+#secnd_milestone {
+  text-align: justify;
+
 }
