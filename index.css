@@ -59,6 +59,7 @@ h5 {
 .span_p_1 {
   margin-left: 80px;
   color: red;
+  display: inline;
 }
 
 .tentacion_music {
